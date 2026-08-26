@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2707e4211f5bcee41a7bad66b108e2f4
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 53299
+  packageName: Amplify Bloom
+  packageVersion: 1.3.2
+  assetPath: Assets/AmplifyBloom/Shaders/BloomBiRP.hlsl
+  uploadId: 861946

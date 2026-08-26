@@ -1,0 +1,32 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+Assets/Images/cutscene fin.mp4
+
+# Visual Studio
+.vs/
+
+# Generated project files
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: eef7dbc3fcb9a6b4db5e157a8e96c3df
+timeCreated: 1525919920
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 112776
+  packageName: Little Cat Girl
+  packageVersion: 1.1
+  assetPath: Assets/Little Cat Girl/Little_Cat_Girl.prefab
+  uploadId: 245041

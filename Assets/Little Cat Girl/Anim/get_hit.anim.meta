@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1719835cfe427e9489d3f00771c6b4e8
+timeCreated: 1521105745
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 112776
+  packageName: Little Cat Girl
+  packageVersion: 1.1
+  assetPath: Assets/Little Cat Girl/Anim/get_hit.anim
+  uploadId: 245041

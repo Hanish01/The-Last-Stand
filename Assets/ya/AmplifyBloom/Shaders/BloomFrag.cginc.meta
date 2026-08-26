@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 665ebe3047c653a49b9e5488b22582d8
+timeCreated: 1449156532
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 53299
+  packageName: Amplify Bloom
+  packageVersion: 1.3.2
+  assetPath: Assets/AmplifyBloom/Shaders/BloomFrag.cginc
+  uploadId: 861946

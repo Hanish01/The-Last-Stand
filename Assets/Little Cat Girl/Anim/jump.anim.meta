@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f3db31aa444b70d42a5960666b3815b0
+timeCreated: 1521101995
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 112776
+  packageName: Little Cat Girl
+  packageVersion: 1.1
+  assetPath: Assets/Little Cat Girl/Anim/jump.anim
+  uploadId: 245041
